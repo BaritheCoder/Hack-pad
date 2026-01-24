@@ -10,7 +10,7 @@ My Hack-pad project repository.
 
 | Case | PCB | Schematic |
 |------|-----|-----------|
-| ![Case](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123646.png?raw=true) | ![PCB](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20125914.png?raw=true) | ![Schematic](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20125949.png?raw=true) |
+| ![Case](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123646.png?raw=true) | ![PCB](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-25%20012240.png?raw=true) | ![Schematic](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20125949.png?raw=true) |
 
 ---
 
