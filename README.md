@@ -1,25 +1,42 @@
 # Hack-pad
-My hackpad's repository
 
-![image alt](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123521.png?raw=true)
-![image alt](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123646.png?raw=true)
-![image alt](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20125914.png?raw=true)
-![image alt](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20125949.png?raw=true)
+My Hack-pad project repository.
 
-Challenges: This was my first time using a pcb making program but I really enjoyed the process and I am looking forward to my next project tyat rquires custom pcbs. Even though I hvae used Cad programs before his one helped me learn quite a lot of new things about 3D modeling.
+![Hack-pad overview](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123521.png?raw=true)
 
-Specifications:
+---
 
-BOM:
-6x Cherry MX Switches
-3x SK6812 MINI Leds
-1x XIAO RP2040
-1x RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-6x Blank DSA Keycaps
-4x M3x16 Bolt
-4x M3 Heatset
-Others:
+## Design Overview
 
-KMK Firmware
-Top Case.stl
-Bottom Case.stl
+| Case | PCB | Schematic |
+|------|-----|-----------|
+| ![Case](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123646.png?raw=true) | ![PCB](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20125914.png?raw=true) | ![Schematic](https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20125949.png?raw=true) |
+
+---
+
+## Challenges
+
+This was my first time using a PCB design program, but I really enjoyed the process and I’m looking forward to my next project that requires custom PCBs.
+
+Although I have used CAD programs before, this project helped me learn many new things about both **PCB design** and **3D modeling**.
+
+---
+
+## Specifications
+
+### Bill of Materials (BOM)
+
+- **6×** Cherry MX switches  
+- **3×** SK6812 MINI LEDs  
+- **1×** XIAO RP2040  
+- **1×** Rotary Encoder (Alps EC11E, vertical, with switch)  
+- **6×** Blank DSA keycaps  
+- **4×** M3×16 bolts  
+- **4×** M3 heat-set inserts  
+
+### Other Files & Tools
+- KMK firmware  
+- `Top Case.stl`  
+- `Bottom Case.stl`  
+
+---
