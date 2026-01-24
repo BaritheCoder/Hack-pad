@@ -42,6 +42,6 @@ Although I have used CAD programs before, this project helped me learn many new 
 
 ---
 
-##V2 changes:
+## V2 changes:
 Changed led typpe to sk6812mini e
 Changer xiao position to the other side of the board so leds can be soldered
