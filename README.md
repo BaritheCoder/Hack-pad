@@ -2,7 +2,7 @@
 
 My Hack-pad project repository.
 
-![Hack-pad overview]([https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123521.png?raw=true](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123521.png))
+![Hack-pad overview]([[https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123521.png?raw=true](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123521.png)](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123521.png))
 
 ---
 
