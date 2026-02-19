@@ -2,8 +2,7 @@
 
 My Hack-pad project repository.
 
-![Hack-pad overview](<img width="875" height="682" alt="image" src="https://github.com/user-attachments/assets/aef57b02-fe31-4b1c-953c-8bc7ec0b7ade" />
-)
+![Hack-pad overview]([<img width="875" height="682" alt="image" src="https://github.com/user-attachments/assets/aef57b02-fe31-4b1c-953c-8bc7ec0b7ade" />](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123521.png?raw=true))
 
 ---
 
