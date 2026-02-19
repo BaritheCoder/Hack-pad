@@ -2,8 +2,7 @@
 
 My Hack-pad project repository.
 
-![Hack-pad overview](<img width="875" height="682" alt="image" src="https://github.com/user-attachments/assets/07791be7-140a-49d2-b18a-16894b69385e" />
-)
+![Hack-pad overview](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123646.png?raw=true)
 
 ---
 
@@ -11,8 +10,7 @@ My Hack-pad project repository.
 
 | Case | PCB | Schematic |
 |------|-----|-----------|
-| ![Case]([https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123646.png?raw=true](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123646.png)) | ![PCB]([https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-25%20012240.png?raw=true](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-25%20012240.png)) | ![Schematic](![Uploading image.png…]([https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-25%20012259.png?raw=true](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-25%20012259.png))
-
+| ![Case](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123646.png?raw=true) | ![PCB](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-25%20012240.png?raw=true) | ![Schematic](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-25%20012259.png?raw=true) |
 
 ---
 
@@ -43,6 +41,6 @@ Although I have used CAD programs before, this project helped me learn many new 
 
 ---
 
-## V2 changes:
-- Changed led position
-- 
+## V2 Changes
+- Changed LED position  
+- Fixed schematic routing issue  
