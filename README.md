@@ -2,7 +2,8 @@
 
 My Hack-pad project repository.
 
-![Hack-pad overview]([[https://github.com/BaritheCoder/Hack-pad/blob/main/Images/Screenshot%202026-01-24%20123521.png?raw=true](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123521.png)](https://github.com/BaritheCoder/Hack-pad/blob/main/V1/Images/Screenshot%202026-01-24%20123521.png))
+![Hack-pad overview](<img width="875" height="682" alt="image" src="https://github.com/user-attachments/assets/07791be7-140a-49d2-b18a-16894b69385e" />
+)
 
 ---
 
